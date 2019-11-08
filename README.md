@@ -11,6 +11,11 @@ jalankan install.bat dengan cara masuk kedalam folder dan start install.bat
 ls = Look curent Directory
 
 touch = untuk membuat file 
-ext : touch index.html
+contoh : touch index.html
 
 c = clear screen
+
+pkill = untuk FORCE Kill sebuah Task
+contoh : pkill chrome.exe
+
+
