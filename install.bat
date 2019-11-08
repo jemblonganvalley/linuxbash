@@ -7,7 +7,7 @@ echo ===================
 echo ......
 echo set PATH to Current directory..
 
-setx path "%cd%"
+setx path "%path%;%cd%"
 
 echo ===================
 echo Reboot CMD
